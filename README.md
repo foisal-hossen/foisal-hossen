@@ -1,9 +1,11 @@
-### Hi there 👋, my name is Foisal Hossen
-#### MERN STACK Developer
+<p align='center'>
+   Hi there 👋, my name is Foisal Hossen
+  <br />
+ MERN STACK Developer
+</p>
 <p align='center'>
 <img src='https://cdn1.vectorstock.com/i/thumb-large/80/25/programmer-flat-color-icon-vector-38028025.jpg'>
 </p>
-I made this project just for fun
 
 Skills:  REACT / JS / HTML / CSS
 
@@ -24,8 +26,10 @@ Skills:  REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=foisal-hossen&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=foisal-hossen)  
-
 ![Profile views](https://gpvc.arturio.dev/foisal-hossen)  
+
+
+> # my project
+
 
 
