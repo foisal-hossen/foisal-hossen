@@ -1,7 +1,8 @@
 ### Hi there 👋, my name is Foisal Hossen
 #### MERN STACK Developer
-![MERN STACK Developer](https://cdn1.vectorstock.com/i/thumb-large/80/25/programmer-flat-color-icon-vector-38028025.jpg)
-
+<p align='center'>
+<img src='https://cdn1.vectorstock.com/i/thumb-large/80/25/programmer-flat-color-icon-vector-38028025.jpg'>
+</p>
 I made this project just for fun
 
 Skills:  REACT / JS / HTML / CSS
